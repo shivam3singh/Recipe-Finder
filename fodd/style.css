@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 10px;
+    gap: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#options{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
